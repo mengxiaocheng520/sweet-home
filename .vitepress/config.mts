@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/sweet-home/",
-  title: "My Awesome Project",
-  description: "A VitePress Site",
+  title: "李海成♥王芳",
+  description: "李海成♥王芳",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
