@@ -94,38 +94,37 @@
 ## 行李
 
 ### 行李箱(托运)
-
-- [ ] 睡衣
-- [ ] 袜子
-- [ ] 内衣
-- [ ] 内裤
-- [x] 梳子
-- [x] 雨伞
-- [x] 拖鞋
-- [x] 晾衣架
-- [x] 洗脸巾
-- [x] 烧水器
-- [x] 吹风机
-- [x] 登山杖
-- [x] 折叠座椅
-- [x] 一次性床单
-- [x] 一次性浴巾
-- [x] 一次性马桶套
+<input type="checkbox"/><label>睡衣</label><br/>
+<input type="checkbox"/><label>袜子</label><br/>
+<input type="checkbox"/><label>内衣</label><br/>
+<input type="checkbox"/><label>内裤</label><br/>
+<input type="checkbox" checked/><label>梳子</label><br/>
+<input type="checkbox" checked/><label>雨伞</label><br/>
+<input type="checkbox" checked/><label>拖鞋</label><br/>
+<input type="checkbox" checked/><label>晾衣架</label><br/>
+<input type="checkbox" checked/><label>洗脸巾</label><br/>
+<input type="checkbox" checked/><label>烧水器</label><br/>
+<input type="checkbox" checked/><label>吹风机</label><br/>
+<input type="checkbox" checked/><label>登山杖</label><br/>
+<input type="checkbox" checked/><label>折叠座椅</label><br/>
+<input type="checkbox" checked/><label>一次性床单</label><br/>
+<input type="checkbox" checked/><label>一次性浴巾</label><br/>
+<input type="checkbox" checked/><label>一次性马桶套</label><br/>
 
 ### 书包
 
-- [x] 口罩
-- [x] 抽纸
-- [x] 湿巾
-- [x] 布包
-- [ ] 雨伞
-- [ ] 乳果糖
-- [ ] 开塞露
-- [x] 晕船药
-- [x] 身份证
-- [ ] 口香糖
-- [x] 湿厕纸
-- [ ] 充电器
-- [x] 刷牙杯
-- [x] 空保温杯
-- [x] 电动牙刷
+<input type="checkbox" checked/><label>口罩</label><br/>
+<input type="checkbox" checked/><label>抽纸</label><br/>
+<input type="checkbox" checked/><label>湿巾</label><br/>
+<input type="checkbox" checked/><label>布包</label><br/>
+<input type="checkbox" checked/><label>牙刷</label><br/>
+<input type="checkbox"/><label>雨伞</label><br/>
+<input type="checkbox"/><label>乳果糖</label><br/>
+<input type="checkbox"/><label>开塞露</label><br/>
+<input type="checkbox" checked/><label>晕船药</label><br/>
+<input type="checkbox" checked/><label>身份证</label><br/>
+<input type="checkbox"/><label>口香糖</label><br/>
+<input type="checkbox" checked/><label>湿厕纸</label><br/>
+<input type="checkbox"/><label>充电器</label><br/>
+<input type="checkbox" checked/><label>刷牙杯</label><br/>
+<input type="checkbox" checked/><label>空保温杯</label><br/>
