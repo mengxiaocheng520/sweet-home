@@ -9,6 +9,7 @@
     "docs:preview": "vitepress preview"
   },
   "dependencies": {
+    "markdown-it-task-lists": "^2.1.1",
     "vitepress-markdown-timeline": "^1.2.1"
   }
 }

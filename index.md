@@ -6,10 +6,10 @@ hero:
   name: "我们的家"
   text: ""
   tagline: 绿蚁新醅酒，红泥小火炉。晚来天欲雪，能饮一杯无？
-  actions:
-    - theme: brand
-      text: 宝贝计划
-      link: /baby/
+#  actions:
+#    - theme: brand
+#      text: 宝贝计划
+#      link: /baby/
     # - theme: alt
     #   text: 画廊
     #   link: /api-examples
