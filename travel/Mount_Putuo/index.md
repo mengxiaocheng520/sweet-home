@@ -2,10 +2,12 @@
 
 ## 注意
 
+::: warning
 - <font color=red>不要找导游！！！不要找导游！！！不要找导游！！！</font>
 - <font color=red>带现金！！！带现金！！！带现金！！！</font>
 - <font color=red>多带衣服，天气不好时非常非常潮湿</font>
 - <font color=red>登岛之后购买打火机</font>
+:::
 
 ## 交通
 
