@@ -23,6 +23,6 @@ features:
     link: /travel/
   - title: 我们的欢聚
     details: 花径不曾缘客扫，蓬门今始为君开。
-    link: /reunite/
+    link: /reunion/
 ---
 
